@@ -1,0 +1,5 @@
+﻿listen-address 127.0.0.1:__PRIVOXY_BIND_PORT__
+actionsfile __TEMP_PATH__user-rule.txt
+show-on-task-bar 0
+activity-animation 0
+hide-console

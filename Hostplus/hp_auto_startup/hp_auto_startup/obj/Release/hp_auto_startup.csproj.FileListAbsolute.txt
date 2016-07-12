@@ -1,0 +1,7 @@
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\bin\Release\hp_auto_startup.exe.config
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\bin\Release\hp_auto_startup.exe
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\bin\Release\hp_auto_startup.pdb
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\obj\Release\hp_auto_startup.Properties.Resources.resources
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\obj\Release\hp_auto_startup.csproj.GenerateResource.Cache
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\obj\Release\hp_auto_startup.exe
+c:\users\ffq\documents\visual studio 2013\Projects\hp_auto_startup\hp_auto_startup\obj\Release\hp_auto_startup.pdb

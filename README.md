@@ -9,7 +9,8 @@ hosts线路优化器，通过hosts文件和http代理重定向优化线路，总
 *   其它支持
 
 ##使用
-请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘[点这](http://pan.baidu.com/s/1pLeVSeB)
+请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘下载[点这](http://pan.baidu.com/s/1pLeVSeB)
+修复hosts即可使用
 
 ##FAQ
 ###Hostplus支持Mac吗?
@@ -17,3 +18,6 @@ hosts线路优化器，通过hosts文件和http代理重定向优化线路，总
 
 ###Hostplus突然不能用了?
 在系统托盘找到Hostplus右键选修复Hosts，重启计算机。如果使用了SwichySharp插件，请使用系统代理
+
+##感谢
+clowwindy, lennylxx, racaljk

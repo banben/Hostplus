@@ -11,8 +11,8 @@ namespace Hostplus.Controller
 {
     class HostsChecker
     {
-        public static string HOST_FILE = "C:\\Windows\\System32\\drivers\\etc\\hosts";
-
+        public static string HOST_FILE = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts");
+        
         [DllImport("dnsapi.dll", EntryPoint = "DnsFlushResolverCache")]
         private static extern UInt32 DnsFlushResolverCache();
 

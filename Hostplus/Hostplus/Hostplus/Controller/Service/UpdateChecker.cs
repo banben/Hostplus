@@ -18,7 +18,7 @@ namespace Hostplus.Controller
         public string LatestVersionURL;
         public event EventHandler NewVersionFound;
 
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
 
         public void CheckUpdate()
         {

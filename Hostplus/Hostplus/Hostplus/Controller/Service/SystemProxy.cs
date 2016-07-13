@@ -36,7 +36,7 @@ namespace Hostplus.Controller
                             new System.IO.StreamReader(CONFIG);
                         line = file.ReadLine();
                         result = line.Substring(line.IndexOf(":") + 1);
-                        registry.SetValue("ProxyServer", "127.0.0.1:" + result);
+                        registry.SetValue("ProxyServer", "http=127.0.0.1:" + result);
                         file.Close();
                     }
                     catch { }

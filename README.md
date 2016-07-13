@@ -9,7 +9,7 @@ hosts线路优化器，通过hosts文件和http代理重定向优化线路，总
 *   其它支持
 
 ##使用
-请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘下载[点这](http://pan.baidu.com/s/1pLeVSeB)
+请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘下载[点这](http://pan.baidu.com/s/1i4EJJiH)
 
 ##FAQ
 ###Hostplus支持Mac吗?

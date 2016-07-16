@@ -3,7 +3,7 @@ hosts线路优化器，通过hosts文件和http代理重定向优化线路，总
 
 *   Youtube ipv6 支持
 *   Google 全家桶支持
-*   Facebook暂不支持
+*   Facebook支持
 *   Dropbox支持
 *   Wikipedia支持
 *   其它支持

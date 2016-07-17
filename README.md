@@ -1,5 +1,5 @@
 ﻿# Hostplus
-最新可用hosts科学上网
+全自动hosts科学上网
 
 ##特性
 *   google等都是支持的，你懂的

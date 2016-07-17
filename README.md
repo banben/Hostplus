@@ -1,4 +1,4 @@
-# Hostplus
+﻿# Hostplus
 最新可用hosts科学上网
 
 ##特性
@@ -8,7 +8,7 @@
 *   更新提醒
 
 ##使用
-请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘下载[点这](http://pan.baidu.com/s/1i4EJJiH)
+请下载[最新版](https://github.com/banben/Hostplus/releases)，度盘下载[点这](http://pan.baidu.com/s/1ge5u9Cf)
 
 ##FAQ
 ###Hostplus支持Mac吗?

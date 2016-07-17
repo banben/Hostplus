@@ -8,7 +8,7 @@
 *   更新提醒
 
 ##使用
-请下载[最新版](https://github.com/banben/Hostplus/releases)
+请下载[最新版](https://github.com/banben/Hostplus/releases)，百度网盘下载[最新版](http://pan.baidu.com/s/1dF5ETNF)
 
 ##FAQ
 ###Hostplus支持Mac吗?

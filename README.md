@@ -8,7 +8,7 @@
 *   更新提醒
 
 ##使用
-从[Github](https://github.com/banben/Hostplus/releases)下载，从[镜像](http://198.98.125.155/Hostplus-1.0.2.zip)下载
+从[Github](https://github.com/banben/Hostplus/releases)下载，从[镜像](http://198.98.125.155/Hostplus-1.0.2.zip)下载，运行后右键点托盘图标选择修复hosts
 
 ##FAQ
 ###Hostplus支持Mac吗?

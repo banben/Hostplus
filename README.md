@@ -1,5 +1,5 @@
 ﻿# Hostplus
-全自动hosts科学上网
+全自动hosts科学上网，该项目不再更新，请使用[DNSlocal](https://github.com/dnslocal/dnslocal-windows)。
 
 ##特性
 *   google等都是支持的，你懂的
